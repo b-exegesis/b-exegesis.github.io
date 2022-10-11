@@ -1,1 +1,14 @@
 /* TODO: design your profile with CSS */
+body {
+    background-color: rgb(209, 28, 197);
+    color: black;
+}
+
+h1 {
+    font-size: 32px;
+    color: cyan;
+}
+
+.custombody {
+    color:aquamarine
+}

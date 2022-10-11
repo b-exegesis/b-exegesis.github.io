@@ -2,13 +2,28 @@
 body {
     background-color: rgb(209, 28, 197);
     color: black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
+
+.content-wrapper {text-align: center;}
+.circle-image {border-radius: 100%;}
 
 h1 {
     font-size: 32px;
     color: cyan;
+    font-family: 'Silkscreen', cursive;
 }
 
+h2 {
+    font-size: 32px;
+    color: cyan;
+    font-family: 'Shrikhand', cursive;
+}
+
+
 .custombody {
-    color:aquamarine
+    color:aquamarine;
+    font-family: 'Gemunu Libre', sans-serif;
 }
